@@ -40,6 +40,7 @@ print("The length of the LPS is", lps(s, 0, len(s) - 1))
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/4ecb6ca0-1dc4-4d23-9541-5128d3d24b51)
 
 
 
