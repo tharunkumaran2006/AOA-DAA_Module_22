@@ -16,11 +16,9 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 6. If s[i] != s[j], return the maximum of lps(s, i + 1, j) and lps(s, i, j - 1) to explore other subsequences. 
 
 ## Program:
-```
-Program to implement to find the length of the longest palindromic subsequence in it
-Developed by: LOKNAATH P
-Register Number: 212223240080
-```
+### Program to implement to find the length of the longest palindromic subsequence in it
+### Developed by: THARUN V K
+### Register Number: 212223230231 
 
 ```py
 def lps(s, i, j):
